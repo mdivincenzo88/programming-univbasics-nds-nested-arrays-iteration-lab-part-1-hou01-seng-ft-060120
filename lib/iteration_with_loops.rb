@@ -15,4 +15,3 @@ while row_index < src.count do
 end #=> nil
 
 end
-end
